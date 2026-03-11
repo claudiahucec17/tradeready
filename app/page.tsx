@@ -1,5 +1,5 @@
-// @ts-nocheck 
-" use client"; 
+// @ts-nocheck
+"use client";
 import { useState, useEffect, useRef } from "react";
 
 /* ─── Google Fonts ──────────────────────────────────────────────────────── */
