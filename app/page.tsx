@@ -1,4 +1,6 @@
-// @ts-nocheck"use client";import { useState, useEffect, useRef } from "react";
+// @ts-nocheck 
+" use client"; 
+import { useState, useEffect, useRef } from "react";
 
 /* ─── Google Fonts ──────────────────────────────────────────────────────── */
 const FontLink = () => (
